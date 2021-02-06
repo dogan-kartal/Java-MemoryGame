@@ -1,4 +1,5 @@
 # Java-MemoryGame
+Memory game made with Java Swing
 
 ![1](https://user-images.githubusercontent.com/60793259/107121076-91cbad80-68a1-11eb-834e-7a803f2e75e6.png)
 
